@@ -4,13 +4,13 @@ Stanford cs231n Assignments submission
 
 ### References
 - svm
-    https://hul980.tistory.com/25 참고한 코드
+    https://hul980.tistory.com/25 
     
 - softmax
     
     https://codestudyisdiff.tistory.com/12    
     
-    https://github.com/jariasf/CS231n/blob/master/assignment1/softmax.ipynb (q2만 조금)
+    https://github.com/jariasf/CS231n/blob/master/assignment1/softmax.ipynb (Q2)
     
 - two-layer nn
     
